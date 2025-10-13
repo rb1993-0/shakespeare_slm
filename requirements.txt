@@ -1,0 +1,5 @@
+transformers==4.44.0
+torch>=2.2.0
+gradio
+beautifulsoup4
+requests
