@@ -3,9 +3,12 @@ Shakespeare MIT Small Language model
 
 
 
-pip install -r requirements.txt
-python crawl_shakespeare_full.py
-python train_shakespeare_llm.py
+pip install -r requirements.txt,
+
+python crawl_shakespeare_full.py,
+
+python train_shakespeare_llm.py,
+
 python app.py
 
 
